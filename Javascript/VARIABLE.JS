@@ -74,3 +74,5 @@ console.log(" The sum of the three numbers is ", sum)
 var average = sum/3
 
 console.log("The average of the numbers is ", average)
+uftdtd
+hfftfdt
